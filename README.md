@@ -7,11 +7,19 @@ Used Libraries:
 * selenium
 * unittest
 
-You can use the following instruction to execute test script.
+You can use the following instructions to execute test script.
 
-```powershell
-python ./src/testscenario1.py
-```
+1. [Install Python](https://www.python.org/downloads/)
+2. Install Selenium:
+
+   ```shell
+   pip install -U selenium
+   ```
+3. Paste following command to your terminal:
+
+   ```shell
+   python ./src/testscenario1.py
+   ```
 
 Example data:
 
